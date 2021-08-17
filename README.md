@@ -7,7 +7,7 @@ It contains 5 sections:
 
 ### 1. Home
 
-![[image](https://user-images.githubusercontent.com/56734293/129628083-020171b0-3861-4d98-8f54-6008b05762bd.png)](https://puja2481.github.io/Portfolio/)
+![image](https://user-images.githubusercontent.com/56734293/129669772-a45feb67-56a1-4a05-b405-3e057591dcee.png)](https://puja2481.github.io/Portfolio/)
 
 ### 2. About
 
