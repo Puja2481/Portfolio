@@ -1,5 +1,5 @@
 # Portfolio
-!(https://puja2481.github.io/Portfolio/)
+
 
 This is my resume website. 
 I have used HTML, CSS and javascript for this.
@@ -7,7 +7,7 @@ It contains 5 sections:
 
 ### 1. Home
 
-![image](https://user-images.githubusercontent.com/56734293/129628083-020171b0-3861-4d98-8f54-6008b05762bd.png)
+![[image](https://user-images.githubusercontent.com/56734293/129628083-020171b0-3861-4d98-8f54-6008b05762bd.png)](https://puja2481.github.io/Portfolio/ "Click to Watch")
 
 ### 2. About
 
